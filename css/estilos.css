@@ -1,0 +1,130 @@
+#titulo {
+    background-color:rgb(96, 216, 196);
+    color: #fff;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.espacio-titulo {
+    padding: 3% 15%;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar {
+    padding-bottom: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat-Light', sans-serif;
+    font-weight: 100;
+   } 
+
+   .download-button {
+    margin: 5% 3% 5% 0;
+   }
+
+   .title-image{
+    width: 60%;
+    transform: rotate(5deg);
+   }
+
+   #caracteristicas{
+    pading:7% 15%;
+   }
+
+   .caja-caracteristicas{
+    text-align: center;
+    padding: 5%;
+   }
+
+   h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+   }
+
+   p{
+    color: #8f8f8f;
+   } 
+
+   .icon{
+    color:#be497a;
+    margin-bottom: 0.5rem;
+   }
+   
+   .icon:hover{
+    color: #b6cdee;
+   }
+
+   #testimonios{
+    text-align: center;
+    background-color: rgb(96, 216, 196);
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+   }
+   
+   .img-testimonio{
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+   }
+
+   #prensa{
+    background-color: rgb(96, 216, 196);
+    text-align: center;
+    padding-bottom: 3%;
+   }
+
+   .logo-prensa{
+    width: 15%;
+    margin: 20px 20px 50px;
+   }
+
+   .carousel-item{
+    padding: 7% 15%;
+   }
+
+   #precios{
+    text-align: center;
+    padding-top: 3%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: rgb(96, 216, 196);
+   }
+   .caja-precios{
+    text-align: center;
+    padding: 5%;
+   }
+
+   #planes{
+    text-align: center;
+    padding-top: 3%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    background-color: rgb(96, 216, 196);
+    color:#fff;
+   }
+
+   .p2{
+    color: #fff;
+   }
